@@ -1,0 +1,9 @@
+{
+  "core_version": "0.0.1",
+  "core_download_url": "https://github.com/HezarDastan-Project/hezardastan-core/releases/download/v0.0.1/hezardastan-core-linux-x64.tar.gz",
+  "core_checksum": "PLACEHOLDER_CORE_CHECKSUM",
+  "panel_version": "0.0.1",
+  "panel_download_url": "https://github.com/HezarDastan-Project/hezardastan-panel/releases/download/v0.0.1/hezardastan-panel-linux-x64.tar.gz",
+  "panel_checksum": "PLACEHOLDER_PANEL_CHECKSUM",
+  "release_notes_url": "https://hezardastan-project.github.io/hezardastan-website/release-notes/v0.0.1.html"
+}
